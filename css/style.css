@@ -1120,6 +1120,10 @@ input[type="radio"].visually-hidden {
     z-index: 2;
 }
 
+.modal-show {
+    display: block;
+}
+
 .modal-overlay {
     position: fixed;
     top: 0;
